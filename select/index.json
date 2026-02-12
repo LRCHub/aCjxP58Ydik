@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Rock With You (Official Video - Upscaled)",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-02-12T12:03:41.965619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Rock_With_You_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock with You",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Rock_with_You_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock With You (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Rock_With_You_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock with You (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/04_Rock_with_You_(Single_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Rock_With_You_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock with You",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Rock_with_You_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock With You",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/07_Rock_With_You_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock with You",
+      "artist": "Ninja Sex Party",
+      "has_synced": true,
+      "path": "select/08_Rock_with_You_Ninja_Sex_Party.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_Rock_With_You_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock With You (Masters At Work Remix)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Rock_With_You_(Masters_At_Work_Remix)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock with You - Single Version",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Rock_with_You_-_Single_Version_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Rock With Me",
+      "artist": "Status Quo",
+      "has_synced": false,
+      "path": "select/12_Come_Rock_With_Me_Status_Quo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_With_You_Michael_Jackson.txt"
+    }
+  ]
+}
